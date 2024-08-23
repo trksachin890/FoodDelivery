@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "977822769265",
+    "project_id": "anotherfood2",
+    "storage_bucket": "anotherfood2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977822769265:android:78e722b911d04c9ab03bd0",
+        "android_client_info": {
+          "package_name": "com.example.sachinfo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9NyycUD2vTLUZq6pc5f7GkgJZYliHpok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977822769265:android:ad32349ed27fc240b03bd0",
+        "android_client_info": {
+          "package_name": "com.example.sachinfoo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9NyycUD2vTLUZq6pc5f7GkgJZYliHpok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
